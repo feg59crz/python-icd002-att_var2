@@ -8,5 +8,7 @@ Matéria: ICD002 Algoritmos e Introdução à Computação
 
 Apostila: Atualização de variáveis + condicionais if e if else - IV
 
-Environment:
+## Environment
+Feito em windows, testado no Linux.
+
 - conda - spyder
